@@ -1,4 +1,3 @@
 WdgBase
 ========
-
-Base set of libraries for Zend Framework 2.
+Base set of libraries for Wdg packages.
