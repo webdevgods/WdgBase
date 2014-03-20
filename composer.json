@@ -24,7 +24,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3",
+        "php": ">=5.3.3"
     },
     "suggest": {
         "webdevgods/wdg-zf2": "Base set of libraries for using zend framework 2.",
